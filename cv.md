@@ -18,6 +18,7 @@
   * Progamming - Java, Python, Javascript, HTML, CSS
   * Vesion contol - GitHub
   * Graphics - Corel, Photoshop
+  * VS code
 ## Code
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
  return  (mpg*fuelLeft>=distanceToPump)?true:false
